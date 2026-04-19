@@ -151,7 +151,7 @@ It highlights strong capabilities in:
 ---
 
 ## 📬 Contact
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: (https://www.linkedin.com/in/saleh-ahmed-data-analyst/)
+- Email: sa.ahmed006@gmail.com
 
 ⭐ If you found this project useful, feel free to star the repo!
